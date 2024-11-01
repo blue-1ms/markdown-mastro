@@ -6,7 +6,7 @@ Markdown Maestro is a modern, tech-savvy markdown editor that simplifies creatin
 
 ## How to Use?
 
-1. **Download** the latest executable from the [releases page](#).
+1. **Download** the latest executable from the [releases page](https://github.com/blue-1ms/markdown-mastro/releases).
 2. **Run the application** directly (no installation required).
 3. **Start Editing**:
    - Use the left pane to write your markdown text.
